@@ -1,5 +1,3 @@
-# deep_learning_challenge
-
 # Deep Learning Challenge
 Module 21 Challenge
 Neural Network Model Report
